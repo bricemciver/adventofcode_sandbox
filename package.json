@@ -1,0 +1,15 @@
+{
+  "name": "adventofcode_sandbox",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start-day1": "ts-node ./2025/day1.ts",
+    "build": "tsc",
+    "start:dist": "node ./dist/2025/day1.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  }
+}
