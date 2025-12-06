@@ -3,12 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start-day1": "ts-node ./2025/day1.ts",
-    "start-day2": "ts-node ./2025/day2.ts",
-    "start-day3": "ts-node ./2025/day3.ts",
-    "start-day4": "ts-node ./2025/day4.ts",
-    "start-day5": "ts-node ./2025/day5.ts",
-    "start-day6": "ts-node ./2025/day6.ts",
+    "start-day1": "ts-node ./2025/day1/day1.ts",
+    "start-day2": "ts-node ./2025/day2/day2.ts",
+    "start-day3": "ts-node ./2025/day3/day3.ts",
+    "start-day4": "ts-node ./2025/day4/day4.ts",
+    "start-day5": "ts-node ./2025/day5/day5.ts",
+    "start-day6": "ts-node ./2025/day6/day6.ts",
     "build": "tsc"
   },
   "devDependencies": {
