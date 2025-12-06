@@ -8,6 +8,7 @@
     "start-day3": "ts-node ./2025/day3.ts",
     "start-day4": "ts-node ./2025/day4.ts",
     "start-day5": "ts-node ./2025/day5.ts",
+    "start-day6": "ts-node ./2025/day6.ts",
     "build": "tsc"
   },
   "devDependencies": {
