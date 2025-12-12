@@ -12,7 +12,11 @@
     "start:day7": "ts-node ./2025/day7/day7.ts",
     "start:day8": "ts-node ./2025/day8/day8.ts",
     "start:day9": "ts-node ./2025/day9/day9.ts",
+    "start:day10": "ts-node ./2025/day10/day10.ts",
     "build": "tsc"
+  },
+  "dependencies": {
+    "javascript-lp-solver": "^0.4.24"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
